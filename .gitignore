@@ -1,0 +1,57 @@
+# --- Python -------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Virtual environments ------------------------------------------------------
+venv/
+env/
+ENV/
+.venv/
+
+# --- Flask / instance data -------------------------------------------------------
+instance/
+*.db
+*.sqlite3
+
+# --- Uploads / generated files ----------------------------------------------------
+uploads/
+exports/
+trained_models/*.pkl
+logs/*.log
+
+# --- Migrations (keep the folder structure, ignore nothing here by default) -------
+# migrations/  (intentionally NOT ignored — Alembic history should be committed)
+
+# --- Testing / coverage -------------------------------------------------------------
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# --- Editors / OS -------------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# --- Node (if any frontend tooling is added later) -----------------------------------
+node_modules/
