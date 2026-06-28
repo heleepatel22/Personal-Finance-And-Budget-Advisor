@@ -1,32 +1,7 @@
 [
   {
-    "merchant": null,
-    "keyword": "zepto",
-    "category": "Food",
-    "created_at": "2026-06-27T17:35:41.463567"
-  },
-  {
-    "merchant": "zepto",
+    "merchant": "dhara",
     "keyword": null,
-    "category": "Groceries",
-    "created_at": "2026-06-27T17:52:50.926008"
-  },
-  {
-    "merchant": "bata",
-    "keyword": null,
-    "category": "Fashion",
-    "created_at": "2026-06-27T17:59:40.141769"
-  },
-  {
-    "merchant": "pizzeria",
-    "keyword": null,
-    "category": "Food",
-    "created_at": "2026-06-28T10:33:04.298223"
-  },
-  {
-    "merchant": "nykaa",
-    "keyword": null,
-    "category": "Shopping",
-    "created_at": "2026-06-28T10:33:21.990559"
+    "category": "Shopping"
   }
 ]
