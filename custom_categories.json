@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Foodd",
+    "type": "expense",
+    "icon": "tag",
+    "color": "#6b7280",
+    "created_at": "2026-06-27T17:51:37.205684",
+    "is_custom": true
+  },
+  {
+    "name": "Fashion",
+    "type": "expense",
+    "icon": "tag",
+    "color": "#6b7280",
+    "created_at": "2026-06-27T17:59:23.248224",
+    "is_custom": true
+  }
+]

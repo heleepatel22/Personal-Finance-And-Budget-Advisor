@@ -1,0 +1,83 @@
+date,description,merchant,amount,type,payment_method,source,category,description_clean
+2024-01-01,NEFT-HCL Salary-88032,HCL Salary,33800.0,income,NEFT,csv_import,,neft-hcl salary-88032
+2024-02-14,Jio postpaid bill,Jio,425.59,expense,UPI,csv_import,,jio postpaid bill
+2024-02-28,Salary credit February,TCS Salary,94900.0,income,NEFT,manual,,salary credit february
+2024-03-01,Monthly salary - TCS Salary,TCS Salary,39900.0,income,NEFT,csv_import,,monthly salary - tcs salary
+2024-03-04,Municipal Water Board postpaid bill,Municipal Water Board,1449.97,expense,Auto Debit,manual,,municipal water board postpaid bill
+2024-03-04,ACT Fibernet bill payment,ACT Fibernet,3353.79,expense,UPI,csv_import,,act fibernet bill payment
+2024-03-25,Swiggy online order,Swiggy,639.84,expense,Card,excel_import,,swiggy online order
+2024-03-26,Payment to Udemy,Udemy,11928.39,expense,Card,manual,,payment to udemy
+2024-04-01,Monthly salary - Acme Corp Payroll,Acme Corp Payroll,37000.0,income,NEFT,manual,,monthly salary - acme corp payroll
+2024-05-03,Hotstar monthly plan,Hotstar,1466.17,expense,Net Banking,excel_import,,hotstar monthly plan
+2024-05-07,LPG Gas Agency postpaid bill,LPG Gas Agency,2056.91,expense,Auto Debit,csv_import,,lpg gas agency postpaid bill
+2024-05-25,Nykaa order #19726,Nykaa,6313.58,expense,UPI,manual,,nykaa order #19726
+2024-06-05,UPI-Spencer's-60267,Spencer's,896.75,expense,Card,csv_import,,upi-spencers-60267
+2024-07-31,Swiggy food delivery,Swiggy,288.0,expense,Cash,manual,,swiggy food delivery
+2024-08-11,UPI-IRCTC-74512,IRCTC,1659.37,expense,Cash,csv_import,,upi-irctc-74512
+2024-08-24,Hotstar movie tickets,Hotstar,599.74,expense,Card,manual,,hotstar movie tickets
+2024-09-13,Payment to Byju's,Byju's,9928.55,expense,UPI,manual,,payment to byjus
+2024-09-29,UPI-LPG Gas Agency-96397,LPG Gas Agency,467.51,expense,UPI,manual,,upi-lpg gas agency-96397
+2024-10-05,Zepto monthly groceries,Zepto,3371.8,expense,UPI,manual,,zepto monthly groceries
+2024-11-02,Bharat Petroleum recharge,Bharat Petroleum,943.01,expense,UPI,excel_import,,bharat petroleum recharge
+2024-11-09,POS-Decathlon-96593,Decathlon,3064.74,expense,UPI,csv_import,,pos-decathlon-96593
+2024-11-21,Monthly rent payment,Landlord Transfer,33555.78,expense,NEFT,manual,,monthly rent payment
+2024-12-07,Local Restaurant food delivery,Local Restaurant,1078.34,expense,Cash,excel_import,,local restaurant food delivery
+2024-12-11,OYO Rooms hotel booking,OYO Rooms,18953.32,expense,Net Banking,csv_import,,oyo rooms hotel booking
+2024-12-14,Nykaa purchase,Nykaa,4702.31,expense,UPI,excel_import,,nykaa purchase
+2024-12-19,School Fee Office tuition fee,School Fee Office,11667.83,expense,UPI,excel_import,,school fee office tuition fee
+2024-12-28,Croma purchase,Croma,3535.82,expense,UPI,csv_import,,croma purchase
+2025-01-05,BigBasket monthly groceries,BigBasket,1428.74,expense,Card,excel_import,,bigbasket monthly groceries
+2025-01-11,MedPlus purchase,MedPlus,1194.25,expense,Card,csv_import,,medplus purchase
+2025-01-24,Amazon Prime movie tickets,Amazon Prime,888.36,expense,UPI,excel_import,,amazon prime movie tickets
+2025-01-26,Fuel - Ola,Ola,1002.05,expense,UPI,csv_import,,fuel - ola
+2025-02-08,Auto-debit Municipal Water Board,Municipal Water Board,890.67,expense,Auto Debit,manual,,auto-debit municipal water board
+2025-02-19,IndiGo Airlines booking,IndiGo Airlines,11253.73,expense,Net Banking,csv_import,,indigo airlines booking
+2025-03-06,Payment to Nykaa,Nykaa,2061.8,expense,UPI,excel_import,,payment to nykaa
+2025-03-14,Indian Oil ride payment,Indian Oil,144.18,expense,Card,csv_import,,indian oil ride payment
+2025-03-17,More Supermarket order #14282,More Supermarket,2366.59,expense,UPI,excel_import,,more supermarket order #14282
+2025-03-23,School Fee Office subscription,School Fee Office,10164.76,expense,Card,csv_import,,school fee office subscription
+2025-04-02,Local Restaurant dine in,Local Restaurant,781.0,expense,Cash,manual,,local restaurant dine in
+2025-04-17,Payment to Big Bazaar,Big Bazaar,1360.02,expense,Card,manual,,payment to big bazaar
+2025-04-23,McDonalds order #72351,McDonalds,996.37,expense,UPI,excel_import,,mcdonalds order #72351
+2025-05-02,Payment to Local Restaurant,Local Restaurant,858.16,expense,Card,excel_import,,payment to local restaurant
+2025-05-02,Swiggy dine in,Swiggy,320.56,expense,UPI,csv_import,,swiggy dine in
+2025-05-06,UPI-Haldiram's-76055,Haldiram's,386.57,expense,Cash,manual,,upi-haldirams-76055
+2025-05-27,UPI-McDonalds-21564,McDonalds,130.58,expense,Cash,csv_import,,upi-mcdonalds-21564
+2025-06-11,Local Kirana Store monthly groceries,Local Kirana Store,3271.94,expense,Card,csv_import,,local kirana store monthly groceries
+2025-06-12,UPI-Uber-67918,Uber,1761.2,expense,Cash,manual,,upi-uber-67918
+2025-06-17,Grocery - BigBasket,BigBasket,3142.39,expense,Cash,excel_import,,grocery - bigbasket
+2025-07-23,Croma online shopping,Croma,4215.19,expense,Net Banking,csv_import,,croma online shopping
+2025-08-04,HP Petrol Pump recharge,HP Petrol Pump,317.36,expense,Card,manual,,hp petrol pump recharge
+2025-08-04,Flipkart online shopping,Flipkart,6978.62,expense,UPI,excel_import,,flipkart online shopping
+2025-08-06,UPI-DMart-15543,DMart,1002.17,expense,UPI,csv_import,,upi-dmart-15543
+2025-08-10,Local Clinic purchase,Local Clinic,1246.87,expense,UPI,excel_import,,local clinic purchase
+2025-08-12,IKEA online shopping,IKEA,2768.56,expense,Card,manual,,ikea online shopping
+2025-08-25,Spencer's delivery,Spencer's,599.18,expense,UPI,manual,,spencers delivery
+2025-08-27,MakeMyTrip hotel booking,MakeMyTrip,24824.98,expense,Card,excel_import,,makemytrip hotel booking
+2025-09-15,Cult.fit membership renewal,Cult.fit,2573.83,expense,UPI,excel_import,,cultfit membership renewal
+2025-09-25,Apollo Pharmacy purchase,Apollo Pharmacy,3242.06,expense,Cash,excel_import,,apollo pharmacy purchase
+2025-10-08,Reliance Fresh monthly groceries,Reliance Fresh,2752.38,expense,Cash,csv_import,,reliance fresh monthly groceries
+2025-10-18,Zomato order #65122,Zomato,829.05,expense,Cash,manual,,zomato order #65122
+2025-10-18,KFC online order,KFC,383.61,expense,UPI,excel_import,,kfc online order
+2025-10-24,Uber trip,Uber,1549.41,expense,UPI,manual,,uber trip
+2025-11-01,Salary credit November,Acme Corp Payroll,103800.0,income,Bank Transfer,manual,,salary credit november
+2025-11-02,Payment to Byju's,Byju's,780.89,expense,Net Banking,manual,,payment to byjus
+2026-01-13,Myntra order #52224,Myntra,2372.51,expense,UPI,excel_import,,myntra order #52224
+2026-01-14,Fuel - Uber,Uber,2019.31,expense,UPI,manual,,fuel - uber
+2026-01-15,POS-Reliance Trends-81546,Reliance Trends,7003.2,expense,UPI,manual,,pos-reliance trends-81546
+2026-01-23,Indian Oil trip,Indian Oil,396.9,expense,Cash,manual,,indian oil trip
+2026-01-28,UPI-Local Restaurant-98861,Local Restaurant,682.97,expense,Cash,manual,,upi-local restaurant-98861
+2026-02-09,HP Petrol Pump recharge,HP Petrol Pump,1108.08,expense,Card,csv_import,,hp petrol pump recharge
+2026-02-20,Payment to Reliance Trends,Reliance Trends,7121.36,expense,Card,csv_import,,payment to reliance trends
+2026-02-20,IKEA purchase,IKEA,1442.87,expense,Net Banking,csv_import,,ikea purchase
+2026-03-07,Metro Card Recharge ride payment,Metro Card Recharge,851.9,expense,Card,manual,,metro card recharge ride payment
+2026-03-11,MedPlus medicines,MedPlus,4034.06,expense,Card,csv_import,,medplus medicines
+2026-03-16,Byju's subscription,Byju's,1315.62,expense,Net Banking,manual,,byjus subscription
+2026-03-29,Zomato dine in,Zomato,769.5,expense,UPI,manual,,zomato dine in
+2026-04-23,OYO Rooms booking,OYO Rooms,17025.35,expense,Net Banking,csv_import,,oyo rooms booking
+2026-05-21,McDonalds food delivery,McDonalds,432.81,expense,Card,excel_import,,mcdonalds food delivery
+2026-05-28,Infosys Salary salary,Infosys Salary,98900.0,income,Bank Transfer,manual,,infosys salary salary
+2026-05-30,Netflix movie tickets,Netflix,623.24,expense,Net Banking,csv_import,,netflix movie tickets
+2026-06-01,Salary credit June,Company Payroll,107700.0,income,Bank Transfer,manual,,salary credit june
+2026-06-21,Payment to Local Clinic,Local Clinic,1463.15,expense,UPI,manual,,payment to local clinic
+2026-06-25,UPI-Municipal Water Board-52206,Municipal Water Board,1515.18,expense,Net Banking,manual,,upi-municipal water board-52206
